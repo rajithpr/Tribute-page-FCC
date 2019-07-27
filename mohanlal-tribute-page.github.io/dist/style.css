@@ -1,0 +1,35 @@
+
+
+#img-div {
+    background: #f8f8f8;
+    padding: 10px;
+    margin: 0;
+}
+#image{
+  max-width:100%;
+  height: auto;
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+#timeline{
+  display: inline-block;
+  text-align: justify;
+  
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #335;
+    margin: 0;
+}
